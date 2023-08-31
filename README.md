@@ -26,8 +26,11 @@ Moving Cards: Users can interact with the cards by moving them between lists. Th
 Data Storage: All user-generated data, including boards, lists, and cards, are stored in a MongoDB database. This ensures that the data persists even when the user logs out or closes the application.
 
 Screenshots
-
-
+<img src="Screenshot (111).png" alt=""></img>
+<img src="Screenshot (112).png" alt=""></img>
+<img src="Screenshot (113).png" alt=""></img>
+<img src="Screenshot (114).png" alt=""></img>
+<img src="Screenshot (115).png" alt=""></img>
 
 Hosted Link
 The Trello Clone application is hosted and accessible at https://example.com/trello-clone.
